@@ -13,4 +13,8 @@ DOMAIN,geolocation.onetrust.com
 DOMAIN-SUFFIX,edith.xiaohongshu.com
 #网易云
 DOMAIN,interface3.music.163.com
-
+DOMAIN,interface.music.163.com
+DOMAIN,nstool.netease.com
+DOMAIN,ip.ws.126.net
+DOMAIN,music.httpdns.c.163.com
+DOMAIN,http://ipservice.163.com/isFromMainland
