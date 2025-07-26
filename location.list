@@ -1,6 +1,6 @@
 # NAME: location.list
 # AUTHOR: keiseoi
-# REPO: https://github.com/blackmatrix7/ios_rule_script
+# REPO: https://raw.githubusercontent.com/keiseoi/shadowrocket-rules/refs/heads/main/location.list
 # UPDATED: 2025-07-26
 
 DOMAIN-SUFFIX,amap.com
