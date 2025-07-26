@@ -10,5 +10,5 @@ DOMAIN,geoip-db.com
 DOMAIN,ip-api.com
 DOMAIN,geolocation.onetrust.com
 #小红书
-DOMAIN-SUFFIX,edith.xiaohongshu.com,Proxy
+DOMAIN-SUFFIX,edith.xiaohongshu.com
 #网易云
