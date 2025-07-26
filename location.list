@@ -1,0 +1,15 @@
+# NAME: location.list
+# AUTHOR: keiseoi
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-07-26
+
+DOMAIN-SUFFIX,amap.com
+DOMAIN-KEYWORD,location
+DOMAIN-KEYWORD,geoip
+DOMAIN-KEYWORD,ip-api
+DOMAIN,dualstack-restios.amap.com
+DOMAIN,restapi.amap.com
+DOMAIN,apilocate.amap.com
+DOMAIN,geoip-db.com
+DOMAIN,ip-api.com
+DOMAIN,geolocation.onetrust.com
