@@ -12,7 +12,4 @@ DOMAIN,geolocation.onetrust.com
 #小红书
 DOMAIN-SUFFIX,edith.xiaohongshu.com
 #网易云
-DOMAIN,httpdns.music.163.com
-DOMAIN,wanproxy.127.net
-DOMAIN,httpdns.music.163.com
 DOMAIN,interface3.music.163.com
