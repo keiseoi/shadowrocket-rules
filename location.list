@@ -22,9 +22,8 @@ DOMAIN,http://ipservice.163.com/isFromMainland
 DOMAIN,natdetection.onethingpcs.com
 IP-CIDR,220.197.30.67/32
 IP-CIDR,116.132.254.182/32
-
 DOMAIN-SUFFIX,music.163.com
-DOMAIN,nstool.netease.com
+DOMAIN-SUFFIX,nstool.netease.com
 DOMAIN,wanproxy.127.net
 DOMAIN,mam.netease.com
 DOMAIN,dt.netease.im
@@ -48,3 +47,5 @@ IP-CIDR,59.111.160.195/32
 IP-CIDR,59.111.19.33/32
 IP-CIDR,59.111.19.53/32
 IP-CIDR,59.111.19.53/32
+
+
