@@ -26,15 +26,15 @@ DOMAIN,interface.music.163.com
 #DOMAIN,http://ipservice.163.com/isFromMainland
 
 #B. 网易云依赖的第三方或接口服务
-DOMAIN,api.iplay.163.com
-DOMAIN,api.k.163.com
-DOMAIN-SUFFIX,nstool.netease.com
-DOMAIN,ac.dun.163.com
-DOMAIN-SUFFIX,dun.163.com
-DOMAIN-SUFFIX,crush.163.com
+#DOMAIN,api.iplay.163.com
+#DOMAIN,api.k.163.com
+#DOMAIN-SUFFIX,nstool.netease.com
+#DOMAIN,ac.dun.163.com
+#DOMAIN-SUFFIX,dun.163.com
+#DOMAIN-SUFFIX,crush.163.com
 DOMAIN-SUFFIX,sdk.reg.163.com
-DOMAIN-SUFFIX,cmpassport.com
-DOMAIN-SUFFIX,crashlytics.com
+#DOMAIN-SUFFIX,cmpassport.com
+#DOMAIN-SUFFIX,crashlytics.com
 
 #C. 可能用于 IP 探测的服务
 #DOMAIN-SUFFIX,ip.ws.126.net
