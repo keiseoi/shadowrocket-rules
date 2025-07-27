@@ -18,8 +18,8 @@ DOMAIN-SUFFIX,edith.xiaohongshu.com
 #DOMAIN-SUFFIX,music.126.net
 #DOMAIN-SUFFIX,music.163.com
 #DOMAIN-SUFFIX,music.ntes53.netease.com
-#DOMAIN,interface3.music.163.com
-DOMAIN,interface.music.163.com
+DOMAIN,interface3.music.163.com
+#DOMAIN,interface.music.163.com
 #DOMAIN,iadmusicmatvideo.music.126.net
 #DOMAIN,p6.music.126.net
 #DOMAIN,music.httpdns.c.163.com
@@ -43,9 +43,9 @@ DOMAIN-SUFFIX,sdk.reg.163.com
 #DOMAIN,wannos.127.net
 
 #D. 其他网易服务或网易IM相关
-DOMAIN,dt.netease.im
-DOMAIN,lbs.netease.im
-DOMAIN,mam.netease.com
+#DOMAIN,dt.netease.im
+#DOMAIN,lbs.netease.im
+#DOMAIN,mam.netease.com
 
 #E. 特定 IP 地址段（疑似CDN或接口服务）
 IP-CIDR,59.111.160.195/32
