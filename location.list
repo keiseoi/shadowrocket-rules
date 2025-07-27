@@ -19,6 +19,9 @@ DOMAIN,iadmusicmatvideo.music.126.net
 DOMAIN,p6.music.126.net
 DOMAIN,music.httpdns.c.163.com
 DOMAIN,http://ipservice.163.com/isFromMainland
+DOMAIN,natdetection.onethingpcs.com
+IP-CIDR,220.197.30.67/32
+IP-CIDR,116.132.254.182/32
 
 DOMAIN-SUFFIX,music.163.com
 DOMAIN,nstool.netease.com
