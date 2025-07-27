@@ -16,10 +16,9 @@ DOMAIN-SUFFIX,edith.xiaohongshu.com
 #[网易云]主页ip绑定登陆缓存，代理后需重新登陆，评论属地展示和主页不相关
 #登录绑定阶段代理
 DOMAIN,sdk.reg.163.com
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.net
-DOMAIN-KEYWORD,music.httpdns
-DOMAIN,http://ipservice.163.com/isFromMainland
+DOMAIN-SUFFIX,api.iplay.163.com
+DOMAIN-SUFFIX,music.126.com
+DOMAIN-SUFFIX,music.126.net
 # 评论发布阶段代理
 DOMAIN,interface.music.163.com
 
