@@ -15,14 +15,14 @@ DOMAIN-SUFFIX,edith.xiaohongshu.com
 
 #[网易云]主页ip绑定登陆缓存，代理后需重新登陆，评论属地展示和主页不相关
 #A. 明确归属于网易云音乐服务的规则
-DOMAIN-SUFFIX,music.126.net
-DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,music.ntes53.netease.com
-DOMAIN,interface3.music.163.com
+#DOMAIN-SUFFIX,music.126.net
+#DOMAIN-SUFFIX,music.163.com
+#DOMAIN-SUFFIX,music.ntes53.netease.com
+#DOMAIN,interface3.music.163.com
 DOMAIN,interface.music.163.com
-DOMAIN,iadmusicmatvideo.music.126.net
-DOMAIN,p6.music.126.net
-DOMAIN,music.httpdns.c.163.com
+#DOMAIN,iadmusicmatvideo.music.126.net
+#DOMAIN,p6.music.126.net
+#DOMAIN,music.httpdns.c.163.com
 #DOMAIN,http://ipservice.163.com/isFromMainland
 
 #B. 网易云依赖的第三方或接口服务
