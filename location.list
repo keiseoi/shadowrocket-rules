@@ -14,51 +14,54 @@ DOMAIN,geolocation.onetrust.com
 DOMAIN-SUFFIX,edith.xiaohongshu.com
 
 #[网易云]主页ip绑定登陆缓存，代理后需重新登陆，评论属地展示和主页不相关
-# 属地判断核心
-#DOMAIN,music.httpdns.c.163.com
+#A. 明确归属于网易云音乐服务的规则
+DOMAIN-SUFFIX,music.126.net
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.ntes53.netease.com
+DOMAIN,interface3.music.163.com
+DOMAIN,interface.music.163.com
+DOMAIN,iadmusicmatvideo.music.126.net
+DOMAIN,p6.music.126.net
+DOMAIN,music.httpdns.c.163.com
 #DOMAIN,http://ipservice.163.com/isFromMainland
 
-# 常规播放域名
-DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,music.126.net
-DOMAIN-SUFFIX,music.ntes53.netease.com
-
-# 工具检测&CDN相关
-DOMAIN,natdetection.onethingpcs.com
-DOMAIN,wannos.127.net
-DOMAIN,wanproxy.127.net
-
-# 接口相关
+#B. 网易云依赖的第三方或接口服务
 DOMAIN,api.iplay.163.com
 DOMAIN,api.k.163.com
-DOMAIN,lbs.netease.im
-
-# 用户监控/账号服务
-DOMAIN,mam.netease.com
+DOMAIN-SUFFIX,nstool.netease.com
 DOMAIN,ac.dun.163.com
 DOMAIN-SUFFIX,dun.163.com
 DOMAIN-SUFFIX,crush.163.com
-DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,sdk.reg.163.com
-
-# 工具类
-DOMAIN-SUFFIX,nstool.netease.com
-DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,crashlytics.com
 
-# IP列表（已去重）
-IP-CIDR,220.197.30.67/32
-IP-CIDR,116.132.254.182/32
-IP-CIDR,101.71.154.241/32
-IP-CIDR,103.126.92.132/32
-IP-CIDR,103.126.92.133/32
-IP-CIDR,112.13.119.18/32
-IP-CIDR,112.13.122.4/32
-IP-CIDR,115.236.118.34/32
-IP-CIDR,115.236.121.4/32
-IP-CIDR,45.254.48.1/32
+#C. 可能用于 IP 探测的服务
+#DOMAIN-SUFFIX,ip.ws.126.net
+#DOMAIN,natdetection.onethingpcs.com
+#DOMAIN,wanproxy.127.net
+#DOMAIN,wannos.127.net
+
+#D. 其他网易服务或网易IM相关
+DOMAIN,dt.netease.im
+DOMAIN,lbs.netease.im
+DOMAIN,mam.netease.com
+
+#E. 特定 IP 地址段（疑似CDN或接口服务）
 IP-CIDR,59.111.160.195/32
 IP-CIDR,59.111.19.33/32
 IP-CIDR,59.111.19.53/32
+IP-CIDR,115.236.118.34/32
+IP-CIDR,115.236.121.4/32
+IP-CIDR,112.13.119.18/32
+IP-CIDR,112.13.122.4/32
+IP-CIDR,101.71.154.241/32
+IP-CIDR,103.126.92.132/32
+IP-CIDR,103.126.92.133/32
+IP-CIDR,220.197.30.67/32
+IP-CIDR,116.132.254.182/32
 IP-CIDR,1.95.21.35/32
+IP-CIDR,45.254.48.1/32
 
+#F. 其他
+DOMAIN-SUFFIX,laiqukankan.com
