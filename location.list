@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,edith.xiaohongshu.com
 DOMAIN,interface.music.163.com
 #DOMAIN,iadmusicmatvideo.music.126.net
 #DOMAIN,p6.music.126.net
-#DOMAIN,music.httpdns.c.163.com
+DOMAIN,music.httpdns.c.163.com
 #DOMAIN,http://ipservice.163.com/isFromMainland
 
 #B. 网易云依赖的第三方或接口服务
