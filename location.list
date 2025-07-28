@@ -17,10 +17,10 @@ DOMAIN-SUFFIX,edith.xiaohongshu.com
 #A. 明确归属于网易云音乐服务的规则
 DOMAIN-SUFFIX,music.126.net
 #DOMAIN-SUFFIX,music.163.com
-#DOMAIN-SUFFIX,music.ntes53.netease.com
+DOMAIN-SUFFIX,music.ntes53.netease.com
 #DOMAIN,interface3.music.163.com
 DOMAIN,interface.music.163.com
-#DOMAIN,iadmusicmatvideo.music.126.net
+DOMAIN,iadmusicmatvideo.music.126.net
 DOMAIN,p6.music.126.net
 DOMAIN,music.httpdns.c.163.com
 #DOMAIN,http://ipservice.163.com/isFromMainland
