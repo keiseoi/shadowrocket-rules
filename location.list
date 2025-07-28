@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,edith.xiaohongshu.com
 #DOMAIN-SUFFIX,music.163.com
 #DOMAIN-SUFFIX,music.ntes53.netease.com
 #DOMAIN,interface3.music.163.com
-#DOMAIN,interface.music.163.com
+DOMAIN,interface.music.163.com
 #DOMAIN,iadmusicmatvideo.music.126.net
 #DOMAIN,p6.music.126.net
 #DOMAIN,music.httpdns.c.163.com
