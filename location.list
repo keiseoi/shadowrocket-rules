@@ -1,5 +1,5 @@
 #[小红书]主页ip绑定评论，代理后评论一次主页属地显示就会变化
-DOMAIN-SUFFIX,edith.xiaohongshu.com/api/sns
+DOMAIN,edith.xiaohongshu.com
 
 #[网易云]主页ip绑定登陆缓存，代理生效后需重新登录，每次更换ip六小时后主页发生变化，评论立即生效
 DOMAIN,interface3.music.163.com
