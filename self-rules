@@ -1,10 +1,12 @@
-#!name=自定义规则
-#!desc=规则集、自定义域名
+#!url=https://raw.githubusercontent.com/keiseoi/shadowrocket-rules/refs/heads/main/self-rules
+#!name=分流策略
+#!desc=自定义规则集分流方式、自定义域名
 
 [Rule]
-DOMAIN-KEYWORD,parallels,REJECT
-
-RULE-SET,https://raw.githubusercontent.com/keiseoi/shadowrocket-rules/refs/heads/main/location.list,PROXY
+#拼多多
+RULE-SET,https://raw.githubusercontent.com/ZenmoFeiShi/rule/main/Pinduoduo.list,REJECT
+#软件定位
+#RULE-SET,https://raw.githubusercontent.com/keiseoi/shadowrocket-rules/refs/heads/main/location.list,PROXY
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Apple/Apple.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Microsoft/Microsoft.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list, DIRECT
